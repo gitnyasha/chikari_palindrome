@@ -8,7 +8,7 @@ Gem::Specification.new do |spec|
 
   spec.summary = %q{Palindrome detector}
   spec.description = %q{A project for my learning purposes, it detects palindromes both in strings and integers.}
-  spec.homepage = "https://github.com/gitnyasha/chikari_palindrome"
+  spec.homepage = "https://github.com/gitnyasha/chikari-palindrome"
   spec.required_ruby_version = Gem::Requirement.new(">= 2.3.0")
 
   spec.metadata["allowed_push_host"] = "https://rubygems.org/"
