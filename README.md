@@ -40,7 +40,7 @@ $ irb
 
 ## Live Version
 
-(Demo)[https://desolate-spire-99911.herokuapp.com/]
+[Demo](https://desolate-spire-99911.herokuapp.com/)
 
 ## Development
 
